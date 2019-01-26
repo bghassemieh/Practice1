@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice1</string>
+    <string name="txt_view_1">Hello World</string>
+    <string name="btn_add">Add a text</string>
+    <string name="btn_Add">Add</string>
+    <string name="txt_hello">Hello World!</string>
+    <string name="btn_bye">Goodbye</string>
+    <string name="btn_goodbye">Good bye</string>
+    <string name="txt_1">Hello World!</string>
+</resources>
